@@ -11,7 +11,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at Lovely Professional University.
 - 📚 I’m currently learning full stack web development.
 - 👯 I’m looking for a software development internship.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dharshanm/), [Gmail](mailto:d16dharshan@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhagtanideepak/), [Gmail](mailto:bhagtanideepak77@gmail.com)
 
 ## 💻 Some of my Tech Stacks
 
