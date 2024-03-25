@@ -34,6 +34,8 @@ const tech = {
   "Soft Skills": ["Analytical Skills", "Communication Skills", "Organization", "Attention to Detail", "Time Management", "Negotiation", "Teamwork", "Adaptability", "Problem Solving", "Professionalism"],
   "challenge": "Trying to do more of Leetcode"
 }
+```
+##
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BHAGTANIDEEPAK&theme=react&show_icons=true&hide_border=true&count_private=true" alt="BHAGTANIDEEPAK's Stats">
 </p>
