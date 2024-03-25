@@ -15,18 +15,11 @@ I'm a computer science student who is passionate about writing code, solving pro
 ## 💻 Some of my Tech Stacks
 
 javascript
+javascript
 const tech = {
   Programming Languages: [C++, C, Java, Python],
-  Web Technologies: [HTML, CSS, Bootstrap, Javascript, JQuery, React, NodeJS, Express],
-  Developer tools: [Git, Gihtub, VS Code, PyCharm, IntelliJ, Eclispse, PyCharm , Jupyter Notebook],
-  Data Analysis: [Excel, Python(Matplotlib,seaborn,pandas,numpy)],
-  Testing Tools: [Selenium(JUNIT)],
-  Agile Methodologies: [Scrum],
-  Project Management [Software: Microsift Project, Jira],
-  Digital Marketing: [SEO, Google Analytics. Facebook Ads, Google Ads. Mailchimp, Amazon Affialite, Content Marketing],
-  Soft Skills: [ Analytical Skills, Communication Skills, Organization, Attention to Detail, Time Management, Negotiation, Teamwork, 
-Adaptability, Problem Solving, Professionalism],
-  
+  Web Technologies: [HTML, CSS, Javascript, JQuery, Typescript, Angular],
+  Developer tools: [Git, VS Code, PyCharm, IntelliJ],
   challenge: "Trying to do more of Leetcode"
 }
 
