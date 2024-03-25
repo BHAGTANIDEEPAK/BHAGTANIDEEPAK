@@ -35,10 +35,7 @@ const tech = {
   "challenge": "Trying to do more of Leetcode"
 }
 ```
-##
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BHAGTANIDEEPAK&theme=react&show_icons=true&hide_border=true&count_private=true" alt="BHAGTANIDEEPAK's Stats">
-</p>
+## 👇🏻 Github Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHAGTANIDEEPAK&theme=react&hide_border=true" alt="BHAGTANIDEEPAK's Streak">
 </p>
