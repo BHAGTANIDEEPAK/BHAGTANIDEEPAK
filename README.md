@@ -1,17 +1,23 @@
 <h1 align="center">Hi, I am Deepak Bhagtani 👋</h1>
 
-![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
+<p align="center">
+  <img src="https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png" alt="hello world">
+</p>
 
 <hr/>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-
-- 🔭 I’m currently a CS student at Lovely Professional University.
-- 📚 I’m currently learning full stack web development.
-- 👯 I’m looking for a software development internship.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhagtanideepak/), [Gmail](mailto:bhagtanideepak77@gmail.com)
+<div>
+  <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+  
+  <p>I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.</p>
+  
+  <ul>
+    <li>🔭 I’m currently a CS student at Lovely Professional University.</li>
+    <li>📚 I’m currently learning full stack web development.</li>
+    <li>👯 I’m looking for a software development internship.</li>
+    <li>📫 How to reach me: <a href="https://www.linkedin.com/in/bhagtanideepak/">Linkedin</a>, <a href="mailto:bhagtanideepak77@gmail.com">Gmail</a></li>
+  </ul>
+</div>
 
 ## 💻 Some of my Tech Stacks
 
@@ -28,3 +34,9 @@ const tech = {
   "Soft Skills": ["Analytical Skills", "Communication Skills", "Organization", "Attention to Detail", "Time Management", "Negotiation", "Teamwork", "Adaptability", "Problem Solving", "Professionalism"],
   "challenge": "Trying to do more of Leetcode"
 }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BHAGTANIDEEPAK&theme=react&show_icons=true&hide_border=true&count_private=true" alt="BHAGTANIDEEPAK's Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHAGTANIDEEPAK&theme=react&hide_border=true" alt="BHAGTANIDEEPAK's Streak">
+</p>
