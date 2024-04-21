@@ -22,7 +22,7 @@
 ## 💻 Some of my Tech Stacks
 
 ```javascript
-const tech = {
+var tech = {
   "Programming Languages": ["C++", "C", "Java", "Python"],
   "Web Technologies": ["HTML", "CSS", "Bootstrap", "Javascript", "JQuery", "React", "NodeJS", "Express"],
   "Developer tools": ["Git", "Github", "VS Code", "PyCharm", "IntelliJ", "Eclipse", "PyCharm", "Jupyter Notebook"],
